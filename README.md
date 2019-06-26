@@ -1,5 +1,9 @@
 # serviceOrderProject
 
+A proposta da aplicação é facilitar a comunicação entre cliente e empresas de manutenção de aparelhos eletrônicos.
+O aplicativo permite a empresa comunicar seus clientes por meio do aplicativo e de um e-mail automatico qual é o estado em que o produto se encontra, se o aparelho está em análise, manutenção, aguardando a aprovação do cliente para realizar a manutenção ou se está pronto. Além disso a aplicação exibe os itens que serão necessários para realizar o reparo do defeito e o custo que esta manutenção terá.
+
+
 **Instalação do NodeJS e do NPM**
 - Acesse https://nodejs.org;
 - Instale o NodeJS comforme instruçoes.
@@ -47,4 +51,8 @@
 
 **Execução do projeto**
 - Com a base de dados e a API executando aperte 'shift + F10' na janela do Android Studio.
+
+
+
+**Criado por: Leonardo Sacoman - leonardodentz@hotmail.com**
  
